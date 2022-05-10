@@ -1,0 +1,6 @@
+venv
+.secrets.sh
+sentences.csv
+model_*
+shuf*
+coded.csv
